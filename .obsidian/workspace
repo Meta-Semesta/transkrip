@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "23c618e8722620c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0246de7c49e1a9e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pengantar.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "506c1673626caea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "25ee36def6e95dcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fc2bd66434e5704",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a5eaad99d6b5e9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301
+  },
+  "right": {
+    "id": "fa89e3ef5581403f",
+    "type": "split",
+    "children": [
+      {
+        "id": "99dee69e224a5ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "687ef20938458664",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pengantar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f0246de7c49e1a9e",
+  "lastOpenFiles": [
+    "Pengantar.md",
+    "Untitled.md",
+    "Isme/004. Teisme atau Deisme - Ep. 4.md",
+    "Isme/002. Alkitab dan Al-Quran - Isme Ep. 2.md",
+    "Isme/000. Mukadimah Isme.md",
+    "Futur/001. Antarmuka Mesin-Otak.md",
+    "Pengetahuan/001. Teori Penciptaan vs Teori Evolusi.md",
+    "Isme/001. Raelian - Isme Ep. 1.md",
+    "Futur.md",
+    "Isme/003. Baha'i dan Mormon - Ep. 3.md"
+  ]
+}
